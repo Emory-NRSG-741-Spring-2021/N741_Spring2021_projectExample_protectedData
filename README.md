@@ -1,4 +1,7 @@
 # N741_Spring2021_projectExample_protectedData
+
+make some edits - sync to github
+
 N741 Spring2021 - project example code with a protected data folder
 
 This Github repository provides:

@@ -16,3 +16,4 @@
 
 # also ignore .Rproj.user folder and files
 .Rproj.user/**
+.Rproj.user
